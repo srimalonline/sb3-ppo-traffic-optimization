@@ -249,7 +249,7 @@ pip install --force-reinstall torch torchvision torchaudio
 
 If you use this code in your research, please cite:
 ```
-**PPO Traffic Light Control System**  
+PPO Traffic Light Control System
 Srimal Fernando / NSBM Green University  
 September 2025
 ```
