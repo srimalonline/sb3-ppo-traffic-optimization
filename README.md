@@ -69,7 +69,7 @@ The system uses PPO to learn optimal traffic light timing strategies for a 4-way
 ### Final Setup Steps
 
 1. Ensure Java JDK is installed and the path is correctly set in the code
-2. **NetLogo Model Setup**: The NetLogo model file `4Way-Junction-Traffic-Simulation-SriLanka.nlogo` is already included in this directory. The Python script will automatically use this file for the traffic simulation.
+2. **NetLogo Model Setup**: The NetLogo model file 4Way-Junction-Traffic-Simulation-SriLanka.nlogo is not included in this repository. please [download the model from the companion repository](https://github.com/srimalonline/4Way-Junction-Traffic-Simulation-SriLanka) and place it in the same directory as your Python files.  
 
 **Note**: If you move the Python files to a different location, make sure to also copy the `4Way-Junction-Traffic-Simulation-SriLanka.nlogo` file to the same directory, or update the file path in the code:
 
