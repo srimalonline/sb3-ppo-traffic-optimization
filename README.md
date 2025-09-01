@@ -253,7 +253,7 @@ PPO Traffic Light Control System
 Srimal Fernando / NSBM Green University  
 September 2025
 ```
-If yiu prefer BibTex
+If you prefer BibTex:
 ```
 @misc{fernando2025ppo,
   title     = {PPO Traffic Light Control System},
